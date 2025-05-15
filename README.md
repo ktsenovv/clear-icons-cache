@@ -31,4 +31,4 @@ NOT REQUIRED!
 <br />
 
 <h1>:copyright: Copyright <a href="#-clear-icons-cache" title="Go to Navigation">[↑]</a></h1>
-© Kristian Cenov &#128640; KC. All rights reserved. This application is not affiliated with Windows® or © Microsoft Corporation. File Explorer® and all related elements are trademarks of and © Microsoft Corporation.
+© Kristian Cenov &#128640; KC. All rights reserved.
