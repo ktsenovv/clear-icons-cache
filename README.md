@@ -31,4 +31,4 @@ NOT REQUIRED!
 <br />
 
 <h1>:copyright: Copyright <a href="#-clear-icons-cache" title="Go to Navigation">[↑]</a></h1>
-© Kristian Cenov &#128640; KC. All rights reserved.
+© Kristian Tsenov. All rights reserved.
