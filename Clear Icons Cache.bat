@@ -2,7 +2,7 @@
 rem [ SETTINGS ]==========================================================
 set AppName=Clear Icons Cache
 ::set AppAuthor=Kristian Tsenov
-::set AppVersion=v2025.04.25
+::set AppVersion=v2025.04.06
 ::set AppWeb=ktsenov.com
 rem ======================================================================
 
